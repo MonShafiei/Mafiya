@@ -1,6 +1,8 @@
 import java.util.Random;
 import java.util.Scanner;
 
+//	Hello mohsen;
+
 public class God {
 	int n =10;
 	
