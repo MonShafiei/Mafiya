@@ -4,7 +4,7 @@ import java.util.Scanner;
 //	Hello mohsen;
 //	How are you?
 
-public class God{
+public class God {
 	int n =10;
 	
 	//Scanner input = new Scanner(System.in);
