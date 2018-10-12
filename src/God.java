@@ -25,7 +25,7 @@ public class God {
 	{
 		
 		mafiya_count = n/3;	//
-		//System.out.println(mafiya_count);
+		//System.out.println(mafiya_count );
 		docter_count = 1;
 		detective = 1;
 		police_count = n - mafiya_count - docter_count - detective;
